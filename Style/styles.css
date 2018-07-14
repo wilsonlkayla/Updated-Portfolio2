@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:17px;
+    line-height:1.6;
+  }
+  
+  html {
+    background: url("../Style/Images/FullPage.jpg") no-repeat left top;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+
